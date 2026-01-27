@@ -60,7 +60,6 @@ body {
   background: white;
   border-radius: 0.5rem;
   overflow: hidden;
-  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
   box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, 0.25);
   display: grid;
   grid-template-columns: 250px 1fr;
